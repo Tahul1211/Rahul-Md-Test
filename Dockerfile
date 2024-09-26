@@ -8,6 +8,6 @@ RUN apt-get update && \
     rm -rf /var/lib/apt/lists/*
 
 RUN git clone https://github.com/Tahul1211/Rahul-Md-Test.git /rahul-md-test
-WORKDIR /xasena
+WORKDIR /rahul-md-test
 RUN npm install
 CMD ["node", "index.js"]
