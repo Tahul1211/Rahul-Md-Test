@@ -5,4 +5,5 @@ module.exports = {
   Greetings: require("./greetings"),
   PausedChats:require("./PausedChat"),
   WarnDB:require('./warn')
+  connection: require("./connection")
 };
