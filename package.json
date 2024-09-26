@@ -38,7 +38,8 @@
     "socket.io-client": "^4.7.5",
     "sqlite3": "^5.1.7",
     "stream-buffers": "^3.0.2",
-    "x-asena": "^1.0.1"
+    "x-asena": "^1.0.1",
+    "connection": "1.5.0"
   },
   "scripts": {
     "start": "pm2 start index.js --name rahul-md-test && pm2 logs rahul-md-test",
