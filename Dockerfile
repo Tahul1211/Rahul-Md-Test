@@ -2,6 +2,7 @@ FROM node:18.16.0-bullseye-slim
 
 RUN apt-get update && \
     apt-get install -y \
+    install git \
     ffmpeg \
     webp && \
     apt-get upgrade -y && \
