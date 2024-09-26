@@ -4,6 +4,5 @@ module.exports = {
   Filters: require("./filters"),
   Greetings: require("./greetings"),
   PausedChats:require("./PausedChat"),
-  WarnDB:require('./warn'),
-  connection: require("./connection")
+  WarnDB:require('./warn')
 };
