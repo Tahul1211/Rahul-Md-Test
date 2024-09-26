@@ -12,7 +12,7 @@
     "@neeraj-x0/ytsearch": "^1.0.0",
     "@whiskeysockets/baileys": "^6.4.0",
     "axios": "^1.4.0",
-    "baileys": "github:X-Electra/baileys",
+    "baileys": "6.7.8",
     "bitly": "^4.1.1",
     "browser-id3-writer": "^4.4.0",
     "cheerio": "^1.0.0-rc.12",
